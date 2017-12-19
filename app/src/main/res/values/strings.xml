@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothWeekEnd6</string>
+    <string name="ble_not_supported">This device does not support bluetooth</string>
+</resources>
